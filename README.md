@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Scan&Product (priv portfolio project)**
 
-- 🌱 I’m currently learning **Java in depth, Firebase and CFGS DAM Concepts**
+- 🌱 I’m currently learning **All the things I know in depth, and, CFGS DAM Concepts**
 
-- 👨‍💻 All of my projects are available at [(haven't done my portfolio page yet)]((haven't done my portfolio page yet))
+<!-- - 👨‍💻 All of my projects are available at [(haven't done my portfolio page yet)]((haven't done my portfolio page yet)) --->
 
 - 💬 Ask me about **Anything! I'll try to answer**
 
