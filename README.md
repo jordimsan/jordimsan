@@ -28,9 +28,7 @@
 
 <hr/>
 
-<p><a href="https://codeforces.com/profile/jmsan" target="_blank">&nbsp;<img align="left" src="https://codeforces-readme-stats.vercel.app/api/card?username=jmsan" alt="jordimsan" /></a></p>
-<p><a href="https://www.codewars.com/users/jordimsan" target="_blank"><img align="center" src="https://github.r2v.ch/codewars?user=jordimsan&stroke=%23BB432C" alt="jordimsan" /></a></p>
-<br/>
-<br/>
+<p><a href="https://codeforces.com/profile/jmsan" target="_blank">&nbsp;<img src="https://codeforces-readme-stats.vercel.app/api/card?username=jmsan" alt="jordimsan" /></a></p>
+<p><a href="https://www.codewars.com/users/jordimsan" target="_blank"><img src="https://github.r2v.ch/codewars?user=jordimsan&stroke=%23BB432C" alt="jordimsan" /></a></p>
 
 <hr/>
