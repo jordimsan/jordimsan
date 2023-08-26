@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimsan&label=Profile%20views&color=0e75b6&style=flat" alt="jordimsan" /> </p>
 
-- 🔭 I’m currently working on **Scan&Product (priv portfolio project)**
+- 🔭 I’m currently working on **Sorting the best CFGS DAM practices / exams I've done in this 2 years in a private repository and Scan&Product (private portfolio project)**
 
 - 🌱 I’m currently learning **All the things I know in depth, and, CFGS DAM Concepts**
 
