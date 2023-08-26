@@ -23,3 +23,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordimsan&show_icons=true&locale=en&layout=compact" alt="jordimsan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordimsan&show_icons=true&locale=en" alt="jordimsan" /></p>
+<br/>
+<hr/>
+
+<h1>Codewars badge: </h1>
+
+[![Badge](https://www.codewars.com/users/jordimsan/badges/large)](https://www.codewars.com/users/jordimsan)
+
+<hr/>
