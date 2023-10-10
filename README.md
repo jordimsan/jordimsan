@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sorting the best CFGS DAM practices / exams I've done in this 2 years in a private repositories, and, working on Portfolio projects.**
 
-- 🌱 I’m currently learning **.NET Framework languages such as Javascript/Typescript, C#.**
+- 🌱 I’m currently learning **.NET Framework for Backend.**
 
 <!-- - 👨‍💻 All of my projects are available at [(haven't done my portfolio page yet)]((haven't done my portfolio page yet)) --->
 
