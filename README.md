@@ -18,14 +18,14 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordimsan&show_icons=true&locale=en&layout=compact" alt="jordimsan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordimsan&show_icons=true&locale=en&layout=compact&theme=shadow_red" alt="jordimsan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordimsan&show_icons=true&locale=en" alt="jordimsan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordimsan&show_icons=true&locale=en&theme=shadow_red" alt="jordimsan" /></p>
 
 
 <hr/> 
 
 <p><a href="https://codeforces.com/profile/jmsan" target="_blank">&nbsp;<img src="https://codeforces-readme-stats.vercel.app/api/card?username=jmsan" alt="jordimsan" /></a></p>
-<p><a href="https://www.codewars.com/users/jordimsan" target="_blank"><img src="https://github.r2v.ch/codewars?user=jordimsan&stroke=%23BB432C" alt="jordimsan" /></a></p>
+<p><a href="https://www.codewars.com/users/jordimsan" target="_blank"><img src="https://github.r2v.ch/codewars?user=jordimsan&stroke=%23BB432C&theme=gradient" alt="jordimsan" /></a></p>
 
 <hr/>
