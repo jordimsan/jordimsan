@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Jordi Moreno Sanchez</h1>
-<h3 align="center">Junior developer aiming to be a Fullstack developer soon or sooner!</h3>
+<h3 align="center">Just another Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimsan&label=Profile%20views&color=0e75b6&style=flat" alt="jordimsan" /> </p>
 
